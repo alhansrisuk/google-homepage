@@ -2,13 +2,14 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	font-style: sans-serif;
+	font-family: sans-serif;
 }
 li a{
 	float: right;
 	padding: 14px 6px;
 	text-decoration: none!important;
-	font-style: sans-serif;
+	font-family: sans-serif;
+	font-size: 14;
 }
 #header {
 	height: 46px;
